@@ -1,0 +1,14 @@
+Note: Control inputs can be changed easyly from the project settings
+//
+//
+//
+Shoot - Left Ctrl
+Pitch - Up and Down
+Roll - Left and Right
+Flap - Press down Alpha 3(increase flap angle) and Alpha 4(reduce flap angle) (Number keys)
+Rudder - (<)(steer left and rudder left) and Greater than(>)(steer right and rudder right)
+Afterburner - f12 (Function key)
+Manual Destroy - f5 (Function key)
+//
+//
+Others can be selected from the Control Board Prefab in the scene

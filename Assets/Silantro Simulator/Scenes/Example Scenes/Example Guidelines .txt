@@ -1,0 +1,7 @@
+Open the scene
+f1 to start aircraft engine
+Num 1 to throttle up
+X to release brake
+Takeoff when aircraft has reached enough speed
+Num 0 to Close or open gear
+Num 2 to throttle engine down
