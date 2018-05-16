@@ -15,7 +15,7 @@ public class OculusJoystick : MonoBehaviour {
 	void Update () {
         activeController = OVRInput.GetActiveController();
         rot = OVRInput.GetLocalControllerRotation(activeController);
-        GameObject.Find("debug").GetComponent<UnityEngine.UI.Text>().text = rot.ToString();
+        //GameObject.Find("debug").GetComponent<UnityEngine.UI.Text>().text = rot.ToString();
 
         transform.rotation = Quaternion.Inverse(new Quaternion(rot.x,-rot.y,rot.z,rot.w));
     }
